@@ -3,6 +3,7 @@
 A beginner-friendly Machine Learning project that predicts the likelihood of heart disease using Logistic Regression.
 
 📌 **Project Overview :-**
+
 This project predicts heart disease based on patient health features using a classification model.
 
 🛠️ **Technologies Used :-**
