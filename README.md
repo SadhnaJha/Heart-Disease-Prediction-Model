@@ -34,4 +34,5 @@ This project predicts heart disease based on patient health features using a cla
 * ROC Curve
 
 🎯 **Learning Outcome :-**
-This project helped me to learn classification, feature scaling, model training, prediction, and model evaluation** using Logistic Regression.
+
+This project helped me to learn classification, feature scaling, model training, prediction, and model evaluation using Logistic Regression.
